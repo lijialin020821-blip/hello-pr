@@ -1,6 +1,6 @@
 # hello-pr
 
-A samll demo project used to practice the GitHub pull request workflow.
+A small demo project used to practice the GitHub pull request workflow.
 
 ## What is this?
 
